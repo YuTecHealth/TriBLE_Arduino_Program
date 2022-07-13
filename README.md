@@ -45,7 +45,7 @@ alt="Yutech logo" height="18" height=""></code> (上傳)).
     alt="Yutech logo" width="700" height=""></code>
     
 #### **C. TriBLE 範例程式 與 實驗學習**    
-*  __a. 如何開始:__ [**依前面步驟**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)完成Yutech環境建置後，點選 `檔案 > 範例 > YuTech TriBLE nRF52840`，選擇一個Lab進行實驗學習。 <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
+*  __a. 如何開始:__ [**依前面步驟**]([https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide](https://github.com/YuTecHealth/TriBLE_Arduino_Program/blob/main/README.md#2-%E5%9C%A8-arduino-ide-%E4%B8%8A%E9%96%8B%E7%99%BC-trible))完成Yutech環境建置後，點選 `檔案 > 範例 > YuTech TriBLE nRF52840`，選擇一個Lab進行實驗學習。 <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 *  __b. 軟體介面呈現:__ 
 	* Android 介面  [**點此**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle" 
