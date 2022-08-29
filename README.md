@@ -48,7 +48,7 @@ alt="Yutech logo" height="18" height=""></code> (上傳)).
 *  __a. 如何開始:__ [**依前面步驟**](https://github.com/YuTecHealth/TriBLE_Arduino_Program/blob/main/README.md#2-%E5%9C%A8-arduino-ide-%E4%B8%8A%E9%96%8B%E7%99%BC-trible)完成Yutech環境建置後，點選 `檔案 > 範例 > YuTech TriBLE nRF52840`，選擇一個Lab進行實驗學習。 <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 *  __b. 軟體介面呈現:__ 
-	* Android 介面  [**點此**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle" 
+	* Android 介面  [**點此**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br>
     alt="Yutech logo" width="300" height=""></code> <br>
 	* 網頁介面  [**點此**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
